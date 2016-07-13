@@ -1,0 +1,1 @@
+# WWC-WordNet-Synsets-Stemming
